@@ -1,6 +1,6 @@
 Name:		texlive-annee-scolaire
 Version:	55988
-Release:	1
+Release:	2
 Summary:	Automatically typeset the academic year (French way)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/annee-scolaire
