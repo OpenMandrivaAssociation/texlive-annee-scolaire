@@ -3,7 +3,7 @@ Version:	55988
 Release:	2
 Summary:	Automatically typeset the academic year (French way)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/annee-scolaire
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/annee-scolaire
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/annee-scolaire.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/annee-scolaire.doc.r%{version}.tar.xz
